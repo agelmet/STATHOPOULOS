@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/ioannis-stathopoulos-icon.svg"
+ },
+ "source_md5": "069e02ec15a994c95875f86174300864",
+ "version": "0c80f824",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "efd3b2bc4f78e1a94dfae84e726852b3"
+ ],
+ "made": "2026-11-18"
+}
